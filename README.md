@@ -9,7 +9,9 @@ Groups are expected to:
 
 Group Info
 =======================
-
-* Name 1 (ID1)
-* Name 2 (ID2)
+Group 
+* Ta Hoang Hai Nam - USTHBI6110
+* Trinh Hoang Hai - 
+* Le Sinh Quy - 
+* Kieu Quoc Viet -
 
