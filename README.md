@@ -13,5 +13,5 @@ Group
 * Ta Hoang Hai Nam - USTHBI6110
 * Trinh Hoang Hai - USTHBI6047
 * Le Sinh Quy - 
-* Kieu Quoc Viet -
+* Kieu Quoc Viet - USTHBI6153
 
