@@ -11,7 +11,7 @@ Group Info
 =======================
 Group 
 * Ta Hoang Hai Nam - USTHBI6110
-* Trinh Hoang Hai - 
+* Trinh Hoang Hai - USTHBI6047
 * Le Sinh Quy - 
 * Kieu Quoc Viet -
 
